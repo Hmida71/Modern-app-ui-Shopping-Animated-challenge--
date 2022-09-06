@@ -47,7 +47,9 @@
 <thead>
 <tr>
   <th align="center">Screen 1</th>
+  
   <th align="center">Screen 2</th>
+  
  <th align="center">Screen 3</th>
 
 </tr>
