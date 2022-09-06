@@ -13,6 +13,8 @@
 <thead>
 <tr>
 <th align="center">Design</th>
+  
+  
 <th align="center">My Design Code</th>
 
 </tr>
