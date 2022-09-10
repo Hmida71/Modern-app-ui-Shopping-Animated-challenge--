@@ -28,7 +28,10 @@
   <a target="_blank" rel="" href="https://user-images.githubusercontent.com/69757558/186706291-bbd84a78-85d5-429a-b51c-d3b1db0f6003.png">
         <img src="https://user-images.githubusercontent.com/69757558/186706291-bbd84a78-85d5-429a-b51c-d3b1db0f6003.png" alt="Css Logo" with="200" height="400"/>
 
-  </a></td>
+
+
+  </a>
+  </td>
   
 <td align="center">
   <a target="_blank" rel="" href="https://user-images.githubusercontent.com/69757558/186706303-3a5a3ab0-8bb2-4a07-a331-2e58544a013c.png">
