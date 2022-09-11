@@ -115,10 +115,14 @@
 
 <img src="https://user-images.githubusercontent.com/69757558/186706381-4d1dc7cf-ca90-49c2-b894-ba0e4b6ad8e4.png" alt="Css Logo" with="200" height="400"/> 
 
-  </a></td>
+  </a>
+ </td>
+ 
   
 </tr>
+ 
 </tbody>
+ 
 </table>
 
 
